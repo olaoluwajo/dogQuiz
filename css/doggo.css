@@ -36,10 +36,10 @@ button {
     border-radius: 5px;
 }
 .correct {
-    background-color: lightgreen;
+    background-color: green;
 }
 .incorrect {
-    background-color: lightpink;
+    background-color: red;
 }
 .hidden {
     display: none;
